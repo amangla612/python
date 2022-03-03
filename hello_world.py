@@ -1,1 +1,1 @@
-print("Aman ki ma ka bhosda")
+print("Hello World !")
